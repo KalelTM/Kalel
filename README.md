@@ -2,9 +2,7 @@
   <img src="https://top.gg/api/widget/status/491282786947301388.svg" alt="Kalel™" />   <a href="https://top.gg/bot/491282786947301388" >
   <img src="https://top.gg/api/widget/servers/491282786947301388.svg" alt="Kalel™" />  <a href="https://top.gg/bot/491282786947301388" >
   <img src="https://top.gg/api/widget/upvotes/491282786947301388.svg" alt="Kalel™" />  <a href="https://top.gg/bot/491282786947301388" >
-  <img src="https://top.gg/api/widget/lib/491282786947301388.svg" alt="Kalel™" />  <a href="https://top.gg/bot/491282786947301388" >
   <img src="https://top.gg/api/widget/owner/491282786947301388.svg" alt="Kalel™" />
-</a>
 
 </a>
 
@@ -27,6 +25,3 @@
 
 🍰 - Você ja conhece o meu servidor?, se você ainda não conhece, <a href="https://discord.gg/pbrFsGY">Clique Aqui</a> para entrar nele!
 
-<a href="https://top.gg/bot/491282786947301388" >
-  <img src="https://top.gg/api/widget/491282786947301388.svg" alt="Kalel™" />
-</a>
