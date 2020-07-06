@@ -1,5 +1,3 @@
-# Kalel™
-Um simples bot brasileiro com otimos sistemas de Jogos, Moderação e etc...
 
 🦊 Olá, Eu sou o Kalel™, veja algumas das minhas informações abaixo! 🦊
 
