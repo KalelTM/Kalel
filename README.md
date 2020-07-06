@@ -1,3 +1,7 @@
+<a href="https://top.gg/bot/491282786947301388" >
+  <img src="https://top.gg/api/widget/status/491282786947301388.svg" alt="Kalel™" />
+</a>
+
 
 🦊 Olá, Eu sou o Kalel™, veja algumas das minhas informações abaixo! 🦊
 
