@@ -1,6 +1,15 @@
 <a href="https://top.gg/bot/491282786947301388" >
   <img src="https://top.gg/api/widget/status/491282786947301388.svg" alt="Kalel™" />   <a href="https://top.gg/bot/491282786947301388" >
-  <img src="https://top.gg/api/widget/servers/491282786947301388.svg" alt="Kalel™" />
+  <img src="https://top.gg/api/widget/servers/491282786947301388.svg" alt="Kalel™" />  <a href="https://top.gg/bot/491282786947301388" >
+  <img src="https://top.gg/api/widget/upvotes/491282786947301388.svg" alt="Kalel™" />  <a href="https://top.gg/bot/491282786947301388" >
+  <img src="https://top.gg/api/widget/lib/491282786947301388.svg" alt="Kalel™" />  <a href="https://top.gg/bot/491282786947301388" >
+  <img src="https://top.gg/api/widget/owner/491282786947301388.svg" alt="Kalel™" />
+</a>
+
+</a>
+
+</a>
+
 </a>
 
 </a>
