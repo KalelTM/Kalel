@@ -25,3 +25,4 @@
 
 🍰 - Você ja conhece o meu servidor?, se você ainda não conhece, <a href="https://discord.gg/pbrFsGY">Clique Aqui</a> para entrar nele!
 
+a
